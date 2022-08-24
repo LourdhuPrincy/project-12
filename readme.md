@@ -8,3 +8,5 @@
 -designing differnt banners for responsive webpages.
 
 Time taken to finish this responsive webpage is one and half day
+
+[netlify link](https://live-project-business-homepage.netlify.app/)
